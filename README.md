@@ -5,5 +5,3 @@ Trivial chip8 Interpreter with [SDL3](https://wiki.libsdl.org/SDL3/FrontPage) fo
 # References 
 
 [write a Chip8 Emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
-
-I've used this one because it does not include any source code.
